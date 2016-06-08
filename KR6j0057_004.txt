@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:53.100872
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 一切如來大祕密王未曾有最上微妙大曼拏羅經
 #+PROPERTY: CBETA_ID T18n0889
 #+PROPERTY: ID KR6j0057
@@ -19,7 +19,7 @@
 試鴻臚少卿明教大師臣¶
 天息災奉　詔譯¶
 
-5先法攝受弟子品
+* 5先法攝受弟子品
 :PROPERTIES:
 :head: 先法攝受弟子品第五
 :END:

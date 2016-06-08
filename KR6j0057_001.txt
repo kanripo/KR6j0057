@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:53.010679
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 一切如來大祕密王未曾有最上微妙大曼拏羅經
 #+PROPERTY: CBETA_ID T18n0889
 #+PROPERTY: ID KR6j0057
@@ -21,7 +21,7 @@ No.889¶
 試鴻臚少卿明教大師臣¶
 天息災奉　詔譯¶
 
-1相應行曼拏羅儀則品
+* 1相應行曼拏羅儀則品
 :PROPERTIES:
 :head: 相應行曼拏羅儀則品第一
 :END:
