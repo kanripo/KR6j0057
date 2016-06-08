@@ -1,29 +1,24 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:24:53.100872
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 10:08
 #+TITLE: 一切如來大祕密王未曾有最上微妙大曼拏羅經
 #+PROPERTY: CBETA_ID T18n0889
 #+PROPERTY: ID KR6j0057
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 18, No. 889
 #+PROPERTY: VOL 18
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0057_T_000-0541c>¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0057_T_004-0552c> 
 #+PROPERTY: JUAN 4
 ¶
-
- 一切如來大祕密王未曾有最上¶
+　切如來大祕密王未曾有最上¶
 微妙大曼拏羅經卷第四¶
 ¶
 西天譯經三藏朝散大夫¶
 試鴻臚少卿明教大師臣¶
 天息災奉　詔譯¶
 
-5先法攝受弟子品
-:PROPERTIES:
-:head: 先法攝受弟子品第五
-:END:
-¶
+* 先法攝受弟子品第五¶
 
 爾時金剛手菩薩摩訶薩。於大眾中即從坐¶
 起。遶佛三匝合十指掌。而白佛言世尊。阿闍¶
